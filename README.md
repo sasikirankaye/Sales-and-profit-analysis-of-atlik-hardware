@@ -1,4 +1,4 @@
-# Sales-and-profit-analysis-of-Atliq-hardware
+# Sales and profit Analysis of Atliq Hardware
 # About ATLIQ:
 AtliQ Tech, which was established in 2017, has successfully developed various software solutions. Right from web application development to automation, we have been able to provide businesses with custom solutions that help scale and streamline their tasks and minimize overhead costs, scale their functions, and increase efficiency. We have created resourceful software that gives a great return on investment.
 # purpose of the project
